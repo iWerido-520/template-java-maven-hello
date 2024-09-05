@@ -1,0 +1,3 @@
+Customer{id='111', username='张三', level='金牌', registrationTime='2020', totalConsumption=1000.0, phone='12345', email='zhangsan@111'}
+Customer{id='222', username='李四', level='银牌', registrationTime='2021', totalConsumption=2000.0, phone='23456', email='lisi@222'}
+Customer{id='333', username='王五', level='铜牌', registrationTime='2022', totalConsumption=3000.0, phone='34567', email='wangwu@333'}

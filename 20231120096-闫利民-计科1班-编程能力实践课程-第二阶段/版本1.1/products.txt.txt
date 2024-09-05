@@ -1,0 +1,6 @@
+Product{id='1', name='洗发水', manufacturer='宝洁公司', productionDate=2021, model='小', purchasePrice=20.0, retailPrice=40.0, quantity=100}
+Product{id='2', name='沐浴露', manufacturer='安利公司', productionDate=2022, model='中', purchasePrice=40.0, retailPrice=80.0, quantity=200}
+Product{id='3', name='洗手液', manufacturer='舒肤佳公司', productionDate=2023, model='大', purchasePrice=30.0, retailPrice=60.0, quantity=300}
+Product{id='4', name='香皂', manufacturer='多芬公司', productionDate=2024, model='大', purchasePrice=10.0, retailPrice=20.0, quantity=400}
+Product{id='5', name='牙膏', manufacturer='黑人公司', productionDate=2022, model='中', purchasePrice=15.0, retailPrice=30.0, quantity=150}
+Product{id='6', name='洗面奶', manufacturer='欧莱雅公司', productionDate=2020, model='小', purchasePrice=35.0, retailPrice=70.0, quantity=350}
